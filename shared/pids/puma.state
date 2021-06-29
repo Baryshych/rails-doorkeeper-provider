@@ -1,0 +1,5 @@
+---
+pid: 28155
+control_url: unix:///tmp/puma-status-1624826609294-28155
+control_auth_token: 23b04ec222ca63b245d893a2921f2b16
+running_from: "/home/luka/RubymineProjects/doorkeeper-provider-app"
