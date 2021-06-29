@@ -8,7 +8,7 @@ owner = User.create!(
 
 app = Doorkeeper::Application.create!(
   name: 'Doorkeeper Sinatra Client',
-  redirect_uri: 'https://doorkeeper-sinatra.herokuapp.com/callback',
+  redirect_uri: 'https://arcane-refuge-23923.herokuapp.comcallback',
   owner: owner
 )
 
